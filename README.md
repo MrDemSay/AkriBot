@@ -1,2 +1,2 @@
 # AkriBot
-Bor to test your knowledge of mathematics
+Bot to test your knowledge of mathematics
